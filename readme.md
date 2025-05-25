@@ -1,2 +1,2 @@
-this is just a markdown page.
-i am learning this.
+# tanuja_practice
+This is just my practice repo.
